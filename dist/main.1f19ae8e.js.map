@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["div","dom","create","after","test"],"mappings":"AAAA,IAAIA,GAAG,GAAGC,GAAG,CAACC,MAAJ,CAAW,6BAAX,CAAV;AACAD,GAAG,CAACE,KAAJ,CAAUC,IAAV,EAAgBJ,GAAhB","file":"main.1f19ae8e.js","sourceRoot":"..\\src","sourcesContent":["let div = dom.create(\"<div><span>hi!</span></div>\");\r\ndom.after(test, div);\r\n"]}
